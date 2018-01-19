@@ -1,0 +1,49 @@
+/* add your CSS here */
+ body{
+ 	font-family: Arial,sans-serif;
+ }
+#mallard{
+	 width: 330px;
+     background: #000;
+     padding: 3px 6px;
+     border-radius: 6px;
+}
+ .underline{
+ 	 text-decoration: underline;
+ }  
+ .fact{
+ 	
+ 	padding: .3em;
+ 	border: 4px solid #478;
+ 	border-radius: 20px;
+ 	color: #129999;
+ }
+ .w{
+ 	font-style: italic;
+ 		color: #468;
+ 	padding: 1em;
+ 	border: 4px solid #478;
+ 	border-radius: 20px;
+ }
+ .p{
+ 	color: #468;
+ 	padding: 1em;
+ 	border: 4px solid #478;
+ 	border-radius: 20px;
+ }
+ .image{
+ 	
+ 	border-radius: 50px;
+ 	cursor: pointer;
+ 	width: 200;
+ 	height: 300px;
+ 	padding: 1em 1em;
+ }
+ .list{
+    list-style-type: none;
+    color: #698;
+ }
+ .span{
+ 	font-weight: bold;
+ 	color: #690
+ }
